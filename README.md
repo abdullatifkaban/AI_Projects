@@ -1,6 +1,6 @@
 # Yapay Zekâ Projelerim
 
-Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin kendimce çözümlerini sunuyorum. Projelerde kullanılan verilere `Data` klasöründen veya proje içerisinde verilen linklerden ulaşılabilir. Depo içeriği zamanla eklenecek yeni çözümlerle zenginleşmeye devam edecektir. Şimdilik makine öğrenmesi modelleri sunulsa da ileride derin öğrenme modellerine de yer verilecektir.
+Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin kendimce çözümlerini sunuyorum. Projelerde kullanılan verilere `Data` klasöründen veya proje içerisinde verilen linklerden ulaşılabilir. Depo içeriği zamanla eklenecek yeni çözümlerle zenginleşmeye devam edecektir.
 
 ## Machine Learning
 
