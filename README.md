@@ -32,6 +32,10 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 
 ### Deep Learning
 
+#### Regression
+
+- [BART Project](01_Machine_Learning/02_Deep_Learning/01_Regression/01_BART_Project.ipynb)
+
 #### Classification
 
 - [German Traffic Sign Recognition](01_Machine_Learning/02_Deep_Learning/02_Classification/01_German_Traffic_Sign_Recognition.ipynb)
@@ -39,6 +43,8 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 - [Grape Disease Detection](01_Machine_Learning/02_Deep_Learning/02_Classification/03_Grape_Disease_Detection.ipynb)
 - [Rice Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/04_Rice_Classification.ipynb)
 - [CIFAR 10 Image Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/05_CIFAR_10_Image_Classification.ipynb)
+- [Malaria Image Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/06_Malaria_Image_Classification.ipynb)
+- [Titanic with Keras](01_Machine_Learning/02_Deep_Learning/02_Classification/07_Titanic_with_Keras.ipynb)
 
 ---
-Son güncelleme: 13.05.2025
+Son güncelleme: 14.05.2025
