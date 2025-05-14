@@ -13,6 +13,7 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 - [Advanced House Price Prediction](01_Machine_Learning/01_Predictive_Analytics/01_Regression/03_Advanced_House_Price_Prediction.ipynb)
 - [Three Generations Seeking Romance](01_Machine_Learning/01_Predictive_Analytics/01_Regression/04_Three_Generations_Seeking_Romance.ipynb)
 - [Laptop Price Prediction](01_Machine_Learning/01_Predictive_Analytics/01_Regression/05_Laptop_Price_Prediction.ipynb)
+- [Zingat Web Scraping](01_Machine_Learning/01_Predictive_Analytics/01_Regression/06_Zingat_Web_Scraping.ipynb)
 - ...
 
 #### Classification
