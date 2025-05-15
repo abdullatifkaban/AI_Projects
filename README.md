@@ -28,6 +28,8 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 - [Credit Score Classification](01_Machine_Learning/01_Predictive_Analytics/02_Classification/06_Credit_Score_Classification.ipynb)
 - [Ads Click-Through Rate Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/07_Ads_Click_Through_Rate_Prediction.ipynb)
 - [Online Food Order Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/08_Online_Food_Order_Prediction.ipynb)
+- [Star Classification](01_Machine_Learning/01_Predictive_Analytics/02_Classification/09_Star_Classification.ipynb)
+- [Obesity Risk Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/11_Obesity_Risk_Prediction.ipynb)
 
 #### Clustering
 
@@ -42,6 +44,7 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 #### Regression
 
 - [BART Project](01_Machine_Learning/02_Deep_Learning/01_Regression/01_BART_Project.ipynb)
+- [Regression with an Abalone Dataset](01_Machine_Learning/02_Deep_Learning/01_Regression/02_Regression_with_an_Abalone_Dataset.ipynb)
 
 #### Classification
 
@@ -54,6 +57,8 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 - [Titanic with Keras](01_Machine_Learning/02_Deep_Learning/02_Classification/07_Titanic_with_Keras.ipynb)
 - [Cat-Dog Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/08_Cat_Dog_Classification.ipynb)
 - [Gender Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/09_Gender_Classification.ipynb)
+- [Flower Types Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/10_Flower_Types_Classification.ipynb)
+- [Cirrhosis Outcomes Prediction](01_Machine_Learning/02_Deep_Learning/02_Classification/11_Cirrhosis_Outcomes_Prediction.ipynb)
 
 ## Natural Language Processing (NLP)
 
@@ -65,6 +70,7 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 - [Text Emotions Classification with Deep Learning](02_Natural_Language_Processing/01_Classification/04_Text_Emotions_Classification.ipynb)
 - [Next Word Prediction with Deep Learning](02_Natural_Language_Processing/01_Classification/05_Next_Word_Prediction.ipynb)
 - [App Reviews Sentiment Analysis](02_Natural_Language_Processing/01_Classification/06_App_Reviews_Sentiment_Analysis.ipynb)
+- [Bag of Words Meets Bags of Popcorn](02_Natural_Language_Processing/01_Classification/07_Bag_of_Words_Meets_Bags_of_Popcorn.ipynb)
 
 ## Computer Vision
 
@@ -86,4 +92,4 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 
 
 ---
-Son güncelleme: 14.05.2025
+Son güncelleme: 15.05.2025
