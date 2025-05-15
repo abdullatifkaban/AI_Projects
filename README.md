@@ -33,6 +33,7 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 11. [Obesity Risk Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/11_Obesity_Risk_Prediction.ipynb)
 12. [Bank Churn Classification](01_Machine_Learning/01_Predictive_Analytics/02_Classification/12_Bank_Churn_Classification.ipynb)
 13. [Students Drugs Addiction Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/13_Students_Drugs_Addiction_Prediction.ipynb)
+14. [Ghouls Goblins and Ghosts](01_Machine_Learning/01_Predictive_Analytics/02_Classification/14_Ghouls_Goblins_and_Ghosts.ipynb)
 
 #### Clustering
 
@@ -63,6 +64,9 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 10. [Flower Types Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/10_Flower_Types_Classification.ipynb)
 11. [Cirrhosis Outcomes Prediction](01_Machine_Learning/02_Deep_Learning/02_Classification/11_Cirrhosis_Outcomes_Prediction.ipynb)
 12. [Edible and Poisonous Fungi](01_Machine_Learning/02_Deep_Learning/02_Classification/12_Edible_and_Poisonous_Fungi.ipynb)
+13. [Cleaned vs Dirty Plates](01_Machine_Learning/02_Deep_Learning/02_Classification/13_Cleaned_vs_Dirty_V2.ipynb)
+14. [Glass Detection](01_Machine_Learning/02_Deep_Learning/02_Classification/14_Glass_Detection.ipynb)
+15. [Emotion Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/14_Glass_Detection.ipynb)
 
 ## Natural Language Processing (NLP)
 
