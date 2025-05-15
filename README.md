@@ -62,13 +62,13 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 
 ## Natural Language Processing (NLP)
 
-- [Bacchanal Buffet Sentiment Analysis](02_NLP/01_Text_Classification/01_Bacchanal_Buffet_Sentiment_Analysis.ipynb)
-- [Amazon Reviews](02_NLP/01_Text_Classification/02_Amazon_Reviews.ipynb)
-- [Text Classification with Deep Learning](02_NLP/01_Text_Classification/03_Text_Classification_with_Deep_Learning.ipynb)
-- [Text Emotions Classification with Deep Learning](02_NLP/01_Text_Classification/04_Text_Emotions_Classification.ipynb)
-- [Next Word Prediction with Deep Learning](02_NLP/01_Text_Classification/05_Next_Word_Prediction.ipynb)
-- [App Reviews Sentiment Analysis](02_NLP/01_Text_Classification/06_App_Reviews_Sentiment_Analysis.ipynb)
-- [Bag of Words Meets Bags of Popcorn](02_NLP/01_Text_Classification/07_Bag_of_Words_Meets_Bags_of_Popcorn.ipynb)
+- [Bacchanal Buffet Sentiment Analysis](02_Natural_Language_Processing/01_Bacchanal_Buffet_Sentiment_Analysis.ipynb)
+- [Amazon Reviews](02_Natural_Language_Processing/02_Amazon_Reviews.ipynb)
+- [Text Classification with Deep Learning](02_Natural_Language_Processing/03_Text_Classification_with_Deep_Learning.ipynb)
+- [Text Emotions Classification with Deep Learning](02_Natural_Language_Processing/04_Text_Emotions_Classification.ipynb)
+- [Next Word Prediction with Deep Learning](02_Natural_Language_Processing/05_Next_Word_Prediction.ipynb)
+- [App Reviews Sentiment Analysis](02_Natural_Language_Processing/06_App_Reviews_Sentiment_Analysis.ipynb)
+- [Bag of Words Meets Bags of Popcorn](02_Natural_Language_Processing/07_Bag_of_Words_Meets_Bags_of_Popcorn.ipynb)
 
 ## Computer Vision
 
