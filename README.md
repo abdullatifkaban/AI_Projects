@@ -1,12 +1,12 @@
-# Yapay Zekâ Projelerim
+# 🤖 Yapay Zekâ Projelerim
 
-Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin kendimce çözümlerini sunuyorum. Projelerde kullanılan verilere `Data` klasöründen veya proje içerisinde verilen linklerden ulaşılabilir. Depo içeriği zamanla eklenecek yeni çözümlerle zenginleşmeye devam edecektir.
+Bu depoda `Yapay Zekâ` öğrenirken üzerinde çalıştığım bazı projelerinin kendimce çözümlerini sunuyorum. Projelerde kullanılan verilere [Data](Data) klasöründen veya proje içerisinde verilen linklerden ulaşılabilir.
 
-## Machine Learning
+## 📊 Machine Learning
 
-### Predictive Analytics
+### 📈 Predictive Analytics
 
-#### Regression
+#### 📉 Regression
 
 1. [KC House Price Prediction](01_Machine_Learning/01_Predictive_Analytics/01_Regression/01_KC_House_Price_Prediction.ipynb)
 2. [Advertising](01_Machine_Learning/01_Predictive_Analytics/01_Regression/02_Advertising.ipynb)
@@ -18,7 +18,7 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 8. [Health Insurance Premium Estimate](01_Machine_Learning/01_Predictive_Analytics/01_Regression/08_Health_Insurance_Premium_Prediction.ipynb)
 9. [Diamond Price Prediction](01_Machine_Learning/01_Predictive_Analytics/01_Regression/09_Diamond_Price_Prediction.ipynb)
 
-#### Classification
+#### 🏷️ Classification
 
 1. [Titanic](01_Machine_Learning/01_Predictive_Analytics/02_Classification/01_Titanic.ipynb)
 2. [Loan Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/02_Loan_Prediction.ipynb)
@@ -34,8 +34,9 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 12. [Bank Churn Classification](01_Machine_Learning/01_Predictive_Analytics/02_Classification/12_Bank_Churn_Classification.ipynb)
 13. [Students Drugs Addiction Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/13_Students_Drugs_Addiction_Prediction.ipynb)
 14. [Ghouls Goblins and Ghosts](01_Machine_Learning/01_Predictive_Analytics/02_Classification/14_Ghouls_Goblins_and_Ghosts.ipynb)
+15. [Classification with an Academic Success Dataset](01_Machine_Learning/01_Predictive_Analytics/02_Classification/15_Classification_with_an_Academic_Success_Dataset.ipynb)
 
-#### Clustering
+#### 🧩 Clustering
 
 1. [Customer Segmentation](01_Machine_Learning/01_Predictive_Analytics/03.Clustering/01_Customer_Segmentation.ipynb)
 2. [San Francisco Airport](01_Machine_Learning/01_Predictive_Analytics/03.Clustering/02_San_Francisco_Airport.ipynb)
@@ -43,14 +44,14 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 4. [User Profiling and Segmentation](01_Machine_Learning/01_Predictive_Analytics/03.Clustering/04_User_Profiling_and_Segmentation.ipynb)
 5. [Clustering of Credit Cards](01_Machine_Learning/01_Predictive_Analytics/03.Clustering/05_Clustering_of_Credit_Cards.ipynb)
 
-### Deep Learning
+### 🧠 Deep Learning
 
-#### Regression
+#### 📉 Regression
 
 1. [BART Project](01_Machine_Learning/02_Deep_Learning/01_Regression/01_BART_Project.ipynb)
 2. [Regression with an Abalone Dataset](01_Machine_Learning/02_Deep_Learning/01_Regression/02_Regression_with_an_Abalone_Dataset.ipynb)
 
-#### Classification
+#### 🏷️ Classification
 
 1. [German Traffic Sign Recognition](01_Machine_Learning/02_Deep_Learning/02_Classification/01_German_Traffic_Sign_Recognition.ipynb)
 2. [Large Scale Fish Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/02_Large_Scale_Fish_Classification.ipynb)
@@ -67,8 +68,9 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 13. [Cleaned vs Dirty Plates](01_Machine_Learning/02_Deep_Learning/02_Classification/13_Cleaned_vs_Dirty_V2.ipynb)
 14. [Glass Detection](01_Machine_Learning/02_Deep_Learning/02_Classification/14_Glass_Detection.ipynb)
 15. [Emotion Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/14_Glass_Detection.ipynb)
+16. [Pneumon Detection](01_Machine_Learning/02_Deep_Learning/02_Classification/16_Pneumon_Detection.ipynb)
 
-## Natural Language Processing (NLP)
+## 📝 Natural Language Processing (NLP)
 
 1. [Bacchanal Buffet Sentiment Analysis](02_Natural_Language_Processing/01_Bacchanal_Buffet_Sentiment_Analysis.ipynb)
 2. [Amazon Reviews](02_Natural_Language_Processing/02_Amazon_Reviews.ipynb)
@@ -78,20 +80,21 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 6. [App Reviews Sentiment Analysis](02_Natural_Language_Processing/06_App_Reviews_Sentiment_Analysis.ipynb)
 7. [Bag of Words Meets Bags of Popcorn](02_Natural_Language_Processing/07_Bag_of_Words_Meets_Bags_of_Popcorn.ipynb)
 8. [Contradictory, My Dear Watson](02_Natural_Language_Processing/08_Contradictory_My_Dear_Watson.ipynb)
+9. [Disaster Tweets Classification](02_Natural_Language_Processing/09_Disaster_Tweets_Classification.ipynb)
 
-## Computer Vision
+## 🖼️ Computer Vision
 
 1. [Awake or Drowsy](03_Computer_Vision/01_Awake_or_Drowsy.ipynb)
 2. [Pose Detection](03_Computer_Vision/02_Pose_Detection.ipynb)
 3. [Image Colorization](03_Computer_Vision/03_Image_Colorization.ipynb)
 
-## Recommendation Systems
+## 🎯 Recommendation Systems
 
 1. [Amazon Products](04_Recommendation_Systems/01_Amazon_Products.ipynb)
 2. [Restaurant Recommendation System with KNN](04_Recommendation_Systems/02_Restaurant_Recommendation_System.ipynb)
 3. [Book Recommendation System with KNN](04_Recommendation_Systems/03_Book_Recommendation_System.ipynb)
 
-## Time Series
+## ⏳ Time Series
 
 1. [Google Stock Price](05_Time_Series/01_Google_Stock_Price.ipynb)
 2. [Ads CTR Forecasting](05_Time_Series/02_Ads_CTR_Forecasting.ipynb)
@@ -99,4 +102,4 @@ Bu depoda daha önce üzerinde çalıştığım bazı yapay zeka projelerinin ke
 
 
 ---
-Son güncelleme: 15.05.2025
+Son güncelleme: 16.05.2025
