@@ -26,10 +26,10 @@ Bu depoda `Yapay Zekâ` öğrenirken üzerinde çalıştığım bazı projelerin
 4. [Big Data Classification with Spark](01_Machine_Learning/01_Predictive_Analytics/02_Classification/04_Big_Data_Classification_with_Spark.ipynb)
 5. [Laptop Price Classification](01_Machine_Learning/01_Predictive_Analytics/02_Classification/05_Laptop_Price_Classification.ipynb)
 6. [Credit Score Classification](01_Machine_Learning/01_Predictive_Analytics/02_Classification/06_Credit_Score_Classification.ipynb)
-7. [Ads Click.Through Rate Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/07_Ads_Click_Through_Rate_Prediction.ipynb)
+7. [Ads Click Through Rate Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/07_Ads_Click_Through_Rate_Prediction.ipynb)
 8. [Online Food Order Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/08_Online_Food_Order_Prediction.ipynb)
 9. [Star Classification](01_Machine_Learning/01_Predictive_Analytics/02_Classification/09_Star_Classification.ipynb)
-10. [Data Science London Scikit Learn](01_Machine_Learning/01_Predictive_Analytics/02_Classification/14_Data_Science_London_Scikit_Learn.ipynb)
+10. [Data Science London Scikit Learn](01_Machine_Learning/01_Predictive_Analytics/02_Classification/10_Data_Science_London_Scikit_Learn.ipynb)
 11. [Obesity Risk Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/11_Obesity_Risk_Prediction.ipynb)
 12. [Bank Churn Classification](01_Machine_Learning/01_Predictive_Analytics/02_Classification/12_Bank_Churn_Classification.ipynb)
 13. [Students Drugs Addiction Prediction](01_Machine_Learning/01_Predictive_Analytics/02_Classification/13_Students_Drugs_Addiction_Prediction.ipynb)
@@ -38,11 +38,11 @@ Bu depoda `Yapay Zekâ` öğrenirken üzerinde çalıştığım bazı projelerin
 
 #### 🧩 Clustering
 
-1. [Customer Segmentation](01_Machine_Learning/01_Predictive_Analytics/03.Clustering/01_Customer_Segmentation.ipynb)
-2. [San Francisco Airport](01_Machine_Learning/01_Predictive_Analytics/03.Clustering/02_San_Francisco_Airport.ipynb)
-3. [Clustering of Music Genres](01_Machine_Learning/01_Predictive_Analytics/03.Clustering/03_Clustering_of_Music_Genres.ipynb)
-4. [User Profiling and Segmentation](01_Machine_Learning/01_Predictive_Analytics/03.Clustering/04_User_Profiling_and_Segmentation.ipynb)
-5. [Clustering of Credit Cards](01_Machine_Learning/01_Predictive_Analytics/03.Clustering/05_Clustering_of_Credit_Cards.ipynb)
+1. [Customer Segmentation](01_Machine_Learning/01_Predictive_Analytics/03_Clustering/01_Customer_Segmentation.ipynb)
+2. [San Francisco Airport](01_Machine_Learning/01_Predictive_Analytics/03_Clustering/02_San_Francisco_Airport.ipynb)
+3. [Clustering of Music Genres](01_Machine_Learning/01_Predictive_Analytics/03_Clustering/03_Clustering_of_Music_Genres.ipynb)
+4. [User Profiling and Segmentation](01_Machine_Learning/01_Predictive_Analytics/03_Clustering/04_User_Profiling_and_Segmentation.ipynb)
+5. [Clustering of Credit Cards](01_Machine_Learning/01_Predictive_Analytics/03_Clustering/05_Clustering_of_Credit_Cards.ipynb)
 
 ### 🧠 Deep Learning
 
@@ -60,14 +60,14 @@ Bu depoda `Yapay Zekâ` öğrenirken üzerinde çalıştığım bazı projelerin
 5. [CIFAR 10 Image Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/05_CIFAR_10_Image_Classification.ipynb)
 6. [Malaria Image Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/06_Malaria_Image_Classification.ipynb)
 7. [Titanic with Keras](01_Machine_Learning/02_Deep_Learning/02_Classification/07_Titanic_with_Keras.ipynb)
-8. [Cat.Dog Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/08_Cat_Dog_Classification.ipynb)
+8. [Cat-Dog Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/08_Cat_Dog_Classification.ipynb)
 9. [Gender Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/09_Gender_Classification.ipynb)
 10. [Flower Types Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/10_Flower_Types_Classification.ipynb)
 11. [Cirrhosis Outcomes Prediction](01_Machine_Learning/02_Deep_Learning/02_Classification/11_Cirrhosis_Outcomes_Prediction.ipynb)
 12. [Edible and Poisonous Fungi](01_Machine_Learning/02_Deep_Learning/02_Classification/12_Edible_and_Poisonous_Fungi.ipynb)
 13. [Cleaned vs Dirty Plates](01_Machine_Learning/02_Deep_Learning/02_Classification/13_Cleaned_vs_Dirty_V2.ipynb)
 14. [Glass Detection](01_Machine_Learning/02_Deep_Learning/02_Classification/14_Glass_Detection.ipynb)
-15. [Emotion Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/14_Glass_Detection.ipynb)
+15. [Emotion Classification](01_Machine_Learning/02_Deep_Learning/02_Classification/15_Emotion_Classification.ipynb)
 16. [Pneumon Detection](01_Machine_Learning/02_Deep_Learning/02_Classification/16_Pneumon_Detection.ipynb)
 
 ## 📝 Natural Language Processing (NLP)
